@@ -1,2 +1,4 @@
 # mxs-storage
-> Application that tests Storage.localstorage object methods.
+> Application that tests Storage.localStorage object methods.
+
+UI is build with native Magic Script UI Kit. 
